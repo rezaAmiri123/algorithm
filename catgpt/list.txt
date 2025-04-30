@@ -1,0 +1,34 @@
+Absolutely — here's a solid cheat sheet of algorithm types / topics you should know for coding interviews, especially in Go:
+
+🔹 Core Algorithm Types
+
+Category	                Subtopics / Common Patterns
+String Algorithms	        Substrings, Anagrams, Palindromes, Pattern Matching, Tokenization
+Array & Sliding Window	    Max/Min subarray, K-size window, Two Pointers, Prefix Sum
+Hashing	                    Frequency Maps, Sets, Deduplication, Grouping
+Sorting	                    Quick Sort, Merge Sort, Custom Sort, Bucket Sort
+Greedy	                    Interval Scheduling, Jump Game, Change-Making
+Dynamic Programming	        Memoization, Tabulation, Subsequence Problems, DP on Strings
+Recursion & Backtracking	Combinations, Permutations, N-Queens, Sudoku Solver
+Binary Search	            On Sorted Arrays, On Answers, Peak Finding
+Graph Algorithms	        BFS, DFS, Topo Sort, Dijkstra, Union Find, Connected Components
+Tree Algorithms	            Traversals, Lowest Common Ancestor, BST Operations
+Heap / Priority Queue	    Top K Elements, Merge K Lists, Median Finder
+Stack / Monotonic Stack	    Next Greater Element, Histogram, Valid Parentheses
+Trie (Prefix Tree)	        Word Dictionary, Autocomplete, Prefix Search
+Bit Manipulation	        XOR Trick, Bit Masks, Counting Bits, Power of Two
+Math & Number Theory	    GCD/LCM, Primes (Sieve), Modular Arithmetic
+Interval Problems	        Merge Intervals, Meeting Rooms, Overlaps
+Union Find / DSU	        Connected Components, Cycle Detection
+Sliding Window + Hashing	Longest Substring, Distinct Elements in Window
+
+🔸 Bonus Patterns Worth Practicing
+Top K Frequent (heap + map)
+Two Sum / 3Sum / 4Sum (hashing + sorting)
+Word Ladder (BFS + set)
+Knapsack Variants (classic DP)
+Median in Stream (two heaps)
+
+prompt:
+I want to practice Linkedlist in golang for algorithm interview. give me an example, 
+explanation and answer
