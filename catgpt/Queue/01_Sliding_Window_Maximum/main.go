@@ -4,10 +4,13 @@ import "fmt"
 
 // 🔄 Problem: Sliding Window Maximum
 // Description:
-// Given an array of integers nums and an integer k, there is a sliding window of size k moving from the very left to the very right of the array. You need to return the maximum value in each window.
+// Given an array of integers nums and an integer k, 
+// there is a sliding window of size k moving from the very left to the very right of the array. 
+// You need to return the maximum value in each window.
 
 // ✅ Solution with Explanation (Using Deque for Optimization)
-// We’ll use a deque to store the indices of elements in the current window. The front of the deque will always have the index of the max element for the current window.
+// We’ll use a deque to store the indices of elements in the current window. 
+// The front of the deque will always have the index of the max element for the current window.
 
 func maxSlidingWindow(nums []int, k int) []int {
 	if len(nums) == 0 {

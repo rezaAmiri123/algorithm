@@ -30,5 +30,5 @@ Knapsack Variants (classic DP)
 Median in Stream (two heaps)
 
 prompt:
-I want to practice Linkedlist in golang for algorithm interview. give me an example, 
+I want to practice Median in Stream (two heaps) in golang for algorithm interview. give me a medium level example, 
 explanation and answer
